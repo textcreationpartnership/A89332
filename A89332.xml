@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A looking-glasse for the Quakers or Shakers. And their follovvers, wherein they may behold their errours, acknowledge their false doctrines, and be converted. Written for the comfort of all true Protestants, and daunting of the Quakers, Jesuites, seminary priests, and all their cursed crew, who do oppose the church and Gospel of our Lord Iesus Christ. / By Sam. Morris of Bristol, a well-wisher to the truth and Gospel of Iesus Christ.</title>
+            <author>Morris, Samuel, of Bristol.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89332</idno>
+            <idno type="STC">Wing M2810</idno>
+            <idno type="STC">Thomason E830_17</idno>
+            <idno type="STC">ESTC R207447</idno>
+            <idno type="EEBO-CITATION">99866496</idno>
+            <idno type="PROQUEST">99866496</idno>
+            <idno type="VID">118771</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89332)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118771)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 126:E830[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A looking-glasse for the Quakers or Shakers. And their follovvers, wherein they may behold their errours, acknowledge their false doctrines, and be converted. Written for the comfort of all true Protestants, and daunting of the Quakers, Jesuites, seminary priests, and all their cursed crew, who do oppose the church and Gospel of our Lord Iesus Christ. / By Sam. Morris of Bristol, a well-wisher to the truth and Gospel of Iesus Christ.</title>
+                  <author>Morris, Samuel, of Bristol.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Thomas in Green Arbour,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 20th"; the final 5 in imprint date crossed out and "4" written in.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature --  Early works to 1800.</term>
+               <term>Quakers --  England --  Bristol --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118771:1" rendition="simple:additions"/>
+            <p>A LOOKING-GLASSE FOR THE QUAKERS OR SHAKERS. And their FOLLOVVERS, Wherein they may behold their Errours, acknowledge their falſe Do<g ref="char:EOLhyphen"/>ctrines, and be converted.</p>
+            <p>Written for the comfort of all true PRO<g ref="char:EOLhyphen"/>TESTANTS, and daunting of the QUAKERS, JESUITES, SEMINARY PRIESTS, and all their curſed Crew, who do oppoſe the Church and Goſpel of our Lord Ieſus Chriſt.</p>
+            <p>By SAM. MORRIS of <hi>Briſtol,</hi> a Well-wiſher to the Truth and Goſpel of Ieſus Chriſt.</p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>1 Iohn 4.1.</hi>
+                  </bibl> Dearly beloved believe not every Spirit, but try the Spirits, whether they are of God; becauſe many falſe Prophets are gone out into the world.</p>
+            </q>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>Math. 24.11.</hi>
+                  </bibl> Many falſe Prophets ſhall riſe, and deceive many.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Edward Thomas</hi> in <hi>Green Arbour,</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118771:2"/>
+            <pb n="1" facs="tcp:118771:2"/>
+            <p>
+               <seg rend="decorInit">A</seg>S I was muſing, I thought there was one asked me, what the <hi>Quakers</hi> were, or from whence they came, and of whom they had their know<g ref="char:EOLhyphen"/>ledge and learning? I told him, I could give him no certain anſwer as yet, but I would con<g ref="char:EOLhyphen"/>ſult the Scriptures, and then return an Anſwer to his Queſtion.</p>
+            <p>Our Saviour <hi>Jeſus Chriſt</hi> tels us, <hi>Math.</hi> 24 11. That <hi>many falſe Prophets ſhall riſe, and ſhall deceive many:</hi> And St. <hi>John</hi> ſaith, Rev. 9.1, 2, 3. <hi>I ſaw a ſtar fall from heaven unto the earth; and to him was given the key of the bottomleſs Pit: And he opened the bottomleſs Pit, and there aroſe a ſmoak out of the Pit, as the ſmoak of a great fornace, and the ſun and the air were darkned, by reaſon of the ſmoak of the pit. And there came out of the ſmoak locuſts up<g ref="char:EOLhyphen"/>on the earth, and unto them was given power as the Scorpions of the earth have power.</hi>
+            </p>
+            <p>The <hi>Pope</hi> hath the key of hell gate, and carrieth it on his arme, as he acknowledgeth; he can with his falſe doctrines ſend men to hell, but can ſend none to heaven: under the <hi>Pope</hi> are his Imps, <hi>viz. Abbots, Monks, Friers, Jeſuites, Quakers,</hi> who are compared to <hi>Locuſts,</hi> becauſe as Locuſts deſtroy the fruits of the earth, ſo the <hi>Quakers</hi> deſtroy the Church. And I do verily believe, there are many of them in this Land, who, like the <hi>Locuſts,</hi> begin to eat up all the green things they can in our Churches. Theſe Ca<g ref="char:EOLhyphen"/>terpillars were bred of <hi>Ignorance, Errour</hi> and <hi>Hereſie,</hi> and came out of the ſmoak of the bottomleſs pit; and by them the Go<g ref="char:EOLhyphen"/>ſpel is much wronged, hindred and abuſed. The <hi>Quakers</hi> we may call <hi>Spirits,</hi> which <hi>come out of the mouth of the Dragon, and out of the mouth of the Beaſt, and out of the mouth of the falſe Prophet:</hi> and St. <hi>John</hi> ſaith, theſe <hi>Spirits</hi> are <hi>like frogs:</hi> by frogs the holy Ghoſt meaneth <hi>Ieſuites</hi> and <hi>Seminary Prieſts:</hi> now ſuch are the <hi>Quakers,</hi> who are of the ſame brood, and they may fitly be com<g ref="char:EOLhyphen"/>pared to frogs for two reaſons.</p>
+            <p n="1">1. As frogs delight in filthy lakes and puddles, ſo the <hi>Quakers</hi> delight in their falſe Doctrines, teaching the Traditions of men,
+<pb n="2" facs="tcp:118771:3"/>and ſo walk on in their wickedneſs, according to St. <hi>Iohns</hi> ſaying, <hi>Rev.</hi> 22.11. <hi>He that is unjuſt let him be unjuſt ſtill, and he that is fil<g ref="char:EOLhyphen"/>thy; let him be filthy ſtill.</hi>
+            </p>
+            <p n="2">2. As frogs make a great croking in mariſh grounds, ſo the <hi>Ieſuites, Seminary Prieſts</hi> and <hi>Quakers,</hi> by their ſweet and fair words, get themſelves favour in ſuch Gentlemens houſes, where they can have entertainment.</p>
+            <p>The <hi>Quakers</hi> alſo are like unto <hi>Scorpions,</hi> for as <hi>Scorpions</hi> ſting the body, ſo do they ſting the ſoul, and with their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>air words and falſe doctrines do corrupt as many as they can, <hi>ſpeaking lies in hypocriſie having their conſciences ſeared with a hot iron,</hi> 1 Tim. 4.2. And therefore <hi>God ſhall ſend them ſtrong deluſion, that they ſhould believe a lie; that they all might be damned, who believed not the truth,</hi> 2 Theſ. 2.11, 12.</p>
+            <p>The <hi>Quakers</hi> have ſtung and poyſoned many in this Land by their fair words and falſe doctrines: <hi>Behold, I am againſt the Pro<g ref="char:EOLhyphen"/>phets ſaith the Lord, that uſe their tongues, and ſay. He ſaith, Behold, I am againſt them that propheſie falſe dreams, ſaith the Lord, and do tell them, and cauſe my people to erre by their lies,</hi> Jer. 23.31, 32. The <hi>Quakers</hi> walk after their Maſter, <hi>the Prince of the power of the air, the ſpirit that now worketh in the children of diſobedience,</hi> Eph. 2.2.</p>
+            <p>But I hope and verily believe, that God will keep and maintain his Church, and the Goſpel of our Lord Jeſus Chriſt in this Land, ſo that neither the <hi>Pope,</hi> nor <hi>Quakers</hi> ſhall ever be able to ſet up Popery again in the ſame. And the reaſon of my belief is this, becauſe the everlaſting Goſpel, which was carried by the Angel that did flie in the midſt of heaven, ſhall ſpread ſtill more and more, as appeareth <hi>Rev.</hi> 14.6. And our Saviour Jeſus Chriſt hath promiſed, that the gates of hell ſhall not prevail againſt his Church and Goſpel, <hi>Math.</hi> 16.18. Wherefore our onely wiſdom is, to ſeparate our ſelves from the <hi>Quakers,</hi> and avoid their falſe doctrine, and to joyn our ſelves to the true Church of God, whereas thoſe that do not ſhall periſh, for God is juſt, and there<g ref="char:EOLhyphen"/>fore he will recompence tribulation to all thoſe that trouble the Church, 2 <hi>Theſ.</hi> 1.6.</p>
+            <p>We of this Land and Nation, may juſtly fear, that as God here<g ref="char:EOLhyphen"/>tofore had a controverſie with the children of Iſrael, becauſe there was no truth, nor mercy, nor knowledge of God in the Land; ſo he will have a controverſie with us, becauſe we are guilty of the ſame ſins.</p>
+            <pb n="3" facs="tcp:118771:3"/>
+            <p>As concerning the knowledge and learning of the <hi>Ieſuites, Quakers, Anabaptiſts, Libertines,</hi> &amp;c. I do believe, that their know<g ref="char:EOLhyphen"/>ledge and learning came from their old Maſter the Devill, other<g ref="char:EOLhyphen"/>wiſe they would not maintain and defend theſe errors and blaſ<g ref="char:EOLhyphen"/>phemies. <hi>viz.</hi>
+            </p>
+            <p n="1">1. That there is no need of preaching, reading, praying, the Sacraments, ſinging of Pſalmes, and all other Ordinances, the Spi<g ref="char:EOLhyphen"/>rit is all (as they ſay:)</p>
+            <p n="2">2. That all gifted perſons may preach without ordination.</p>
+            <p n="3">3. That God revealeth his will, not onely by the written word, but alſo by Dreams and Viſions, which they believe more than the Word of God.</p>
+            <p n="4">4. They deny all Conſequences drawn from the Scripture, though never ſo clear.</p>
+            <p n="5">5. That the Magiſtrate muſt compell none in matters of Reli<g ref="char:EOLhyphen"/>gion, but muſt tolerate all.</p>
+            <p n="6">6. That Heaven and Hell are no where, but within a man.</p>
+            <p n="7">7. That they may diſſemble their Religion, deny Chriſt before men, ſo that they keep the Truth in their hearts: God delighteth not in our bloud, nor requireth that we ſhould die for the Truth.</p>
+            <p n="8">8. That Infant Baptiſm is a childiſh needleſs thing, and that no Infants ought to be baptized, untill they come to perfect age, and are able to make a Confeſſion of their faith. That Infant-baptiſm came from the Pope or Devill.</p>
+            <p n="9">9. That the Saints are freed by Chriſt, from all Laws, Cove<g ref="char:EOLhyphen"/>nants, Vows, paying of Tithes, or Debts.</p>
+            <p n="10">10. That after Baptiſm they cannot ſin.</p>
+            <p n="11">11. That the ſoul ſleepeth when it departeth from the body, and neither goeth to heaven or hell till the day of Judgement; and that the ſoules of men are but terreſtial vapours, like Beaſts, periſhing with the body.</p>
+            <p n="12">12. That a Chriſtian cannot with a ſafe Conſcience poſſeſs any thing proper to himſelf, but he muſt let all be common.</p>
+            <p n="13">13. That the Sacraments in uſe amongſt us, are not appointed by God in the Scriptures.</p>
+            <p n="14">14. That the righteous enter into life for their good works.</p>
+            <p n="15">15. That no opinion is damnable, and that a man may be ſa<g ref="char:EOLhyphen"/>ved in any Religion.</p>
+            <p n="16">16. That Chriſt is a meer man, not having any other nature be<g ref="char:EOLhyphen"/>ſide the humane nature.</p>
+            <pb n="4" facs="tcp:118771:4"/>
+            <p n="17">17. That the Holy Ghoſt is not God, but onely the chief of the miniſtring Spirits.</p>
+            <p n="18">18. That man is a right Rule, yea, the Rule of all things.</p>
+            <p n="19">19. That God neither doth, nor poſſibly can hurt us, and there<g ref="char:EOLhyphen"/>fore is not to be feared.</p>
+            <p n="20">20. That no civill Government is to be acknowledged by the Government of the Law.</p>
+            <p n="21">21. That the civill Magiſtrate hath not any coercive power to puniſh any man, or to reſtrain any for their Judgement, Conſci<g ref="char:EOLhyphen"/>ence, Opinion, or way of worſhip, if they act or ſpeak nothing that is deſtructive to the civill Power, or tending to the breach of the peace, or to the injury of another, and the reaſon they give is this, becauſe the Magiſtrate he is natural, and knoweth not what is Blaſphemy, Hereſie, Errour and Idolatry, they are fooliſhneſs to him, neither can he diſcern them.</p>
+            <p n="22">22. That the Magiſtrate ought not to have the Title of Wor<g ref="char:EOLhyphen"/>ſhipful or Right Worſhipful given unto them.</p>
+            <p n="23">23. That none are Miniſters of God, and called by him, who are ſent forth by Authority of men.</p>
+            <p n="24">24. That the worſhip which is performed by the people of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> in fellowſhip with the Miniſters thereof, is heatheniſh worſhip.</p>
+            <p>By all which we may ſee how neceſſary it is, that both Magi<g ref="char:EOLhyphen"/>ſtrates and Miniſters, with united hearts and hands, endeavour to oppoſe and ſuppreſs theſe errours and hereſies, which bring ſwift deſtruction, both upon falſe teachers themſelves, and upon thoſe that are deceived by them.</p>
+            <p>I do earneſtly intreat all thoſe that fear God, to take theſe things into their ſerious conſideration, and meditation, both in publick and private, and lay to heart, how dangerous and pernici<g ref="char:EOLhyphen"/>ous theſe errours and hereſies are, <hi>for if after they have eſcaped the pollutions of the world, through the knowledge of the Lord and Saviour Ieſus Chriſt, they are again intangled therein and overcome, the later end is worſe with them than the beginning,</hi> 2 Pet. 2 20. And let all men that have any care of their ſalvation, follow the counſel of the Holy Ghoſt, ſaying, <hi>come out from among them, and be not parta<g ref="char:EOLhyphen"/>kers of their ſins; for many deceivers are entred into the world</hi> (and certainly into this Land) 2 John 7. <hi>who privily ſhall</hi> (and do) <hi>bring in damnable hereſies</hi> (even amongſt us) <hi>denying the Lord that bought them, and bring upon themſelves ſwift diſtruction. And many ſhall follow their pernitious wayes, by reaſon of whom the way of truth
+<pb n="5" facs="tcp:118771:4"/>ſhall be evill ſpoken of,</hi> 2. Pet. 2.1, 2. <hi>The time will come, when they will not endure ſound doctrine, but after their own luſts ſhall they heap to themſelves teachers, having itching ears, who ſhall ſay to their new Lights, propheſie not unto us right things, ſpeak unto us flattering things propheſie errours,</hi> Iſai. 30.10. <hi>And we will walk after our own de<g ref="char:EOLhyphen"/>vices, and we will every one do the imagination of his evill heart.</hi> Jer. 18.12. <hi>Yea, they made their hearts as an adamant ſtone, leſt they ſhould hear the Law, and the wordt which the Lord of Hoſts hath ſent in his Spirit by the former Prophets,</hi> Zech. 7.12. <hi>Thus ſaith the Lord of Hoſts, Hearken not unto the words of the Prophets that propheſie unto you, they make you vain, they ſpeak a viſion out of their own heart, and not out of the mouth of the Lord. How long ſhall this be in the heart of the Prophets that propheſie lies? yea, they are prophets of the deceit of their own heart. Behold I am againſt them that propheſie falſe dreames, ſaith the Lord, and do tell them, and cauſe my people to erre by their lies, and by their lightneſs, yet I ſent them not, nor commanded them; there<g ref="char:EOLhyphen"/>fore they ſhall not profit this people at all, ſaith the Lord.</hi> Ierem. 23.16, 26, 32.</p>
+            <p>We read in the Book of <hi>Numbers,</hi> chap. 16.1, 2, 3. That <hi>Korah, Dathan and Abiram roſe up before</hi> Moſes <hi>with two hundred and fifty Princes of the Aſſembly, and they gathered themſelves together againſt</hi> Moſes, <hi>and againſt</hi> Aaron, <hi>and ſaid unto them, ye take too much upon you, ſeeing all the Congregation are holy, every one of them, and the Lord is among them,</hi> &amp;c. So the <hi>Quakers</hi> gather themſelves toge<g ref="char:EOLhyphen"/>ther againſt the Godly learned Miniſters of the Goſpel, ſaying unto them, the people are holy, and the Lord is among them, and therefore why may not they preach as well as you Black-coats:</p>
+            <p>But they conſider not, that none ought to preach except they be called, according to that of the Apoſtle, <hi>Heb.</hi> 5.4. <hi>No man taketh this honour unto himſelf, but he that is called of God, as was</hi> Aaron. And <hi>how ſhall they preach, except they be ſent? Rom.</hi> 10.15. It is a note of falſe Prophets, to run and come without a call and ſend<g ref="char:EOLhyphen"/>ing, as our Saviour Chriſt affirmeth, <hi>Math.</hi> 7.15. <hi>Beware of falſe Prophets, which come unto you,</hi> &amp;c. So that it is evident, no private perſon ought to take upon him to expound and interpret the Scri<g ref="char:EOLhyphen"/>pture in publick, for this is the ready way to breed diſorder, errour and confuſion in the Church: If every Souldier, that hath the gifts of a Commander, ſhould take upon him the Office of a Ge<g ref="char:EOLhyphen"/>neral, without a lawful Call; or he that hath the gift of a Magi<g ref="char:EOLhyphen"/>ſtrate ſhould take upon him the Office of a Magiſtrate, and exe<g ref="char:EOLhyphen"/>cute
+<pb n="6" facs="tcp:118771:5"/>the ſame without a lawful Call; or if a Lawyer, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ing the gifts of a Judge, ſhould ſtep up into the Judges ſeat, and cenſure men without a lawful Call: then farewell Generals, Magiſtrates, Judges, which would breed diſorder and confuſion in the Com<g ref="char:EOLhyphen"/>mon-wealth.</p>
+            <p>Be admoniſhed all you that take upon you to preach (or ra<g ref="char:EOLhyphen"/>ther prate) in houſes, gardens, and elſewhere, without a lawful Call, to deſiſt from this your ungodly practiſe, leſt the ſame judgement befal you, which did befal <hi>
+                  <g ref="char:V">Ʋ</g>zzah,</hi> for putting forth his hand to ſtay the Ark of God, the anger of the Lord was kindled againſt <hi>
+                  <g ref="char:V">Ʋ</g>zzah,</hi> and God ſmore him for his errour, and he died 2 <hi>Sam.</hi> 6.6, 7.</p>
+            <p>Let me conclude all with theſe ſcriptural exhortations to my Country-men, for whoſe ſakes I have compiled this ſhort diſ<g ref="char:EOLhyphen"/>courſe.</p>
+            <p>
+               <hi>Beloved, remember ye the words which were ſpoken before of the Apoſtles of our Lord Jeſus Chriſt: How that they told you, there ſhould be mockers in the laſt time, who ſhould walk after their own ungodly luſts: theſe be they, who ſeparate themſelves ſenſual, having not the Spirit,</hi> Iude 17, 18, 19. <hi>Who ſhall be puniſhed with everlaſting de<g ref="char:EOLhyphen"/>ſtruction from the preſence of the Lord, and from the glory of his power,</hi> 2 Theſ. 1.9. <hi>Watch ye, ſtand faſt in the faith, quit you like men, be ſtrong,</hi> 1 Cor. 16.13. <hi>Be ſober, be vigilant, becauſe your Adver<g ref="char:EOLhyphen"/>ſary the Devil, as a roaring Lyon walketh about, ſeeking whom he may devour; whom reſiſt ſtedfaſt in the faith,</hi> 1 Pet. 5.8, 9. <hi>Be not ſoon ſhaken in minds, or be troubled, neither by ſpirit, nor by word, nor by let<g ref="char:EOLhyphen"/>ter,</hi> 2 Theſ. 2.2. <hi>That we henceforth be no more children, toſſed to and fro, and carried about with every wind of doctrine, by the ſleight of men, and cunning craftineſs, whereby they lie in wait to deceive,</hi> Eph. 4.14. <hi>Let us draw near with a true heart, in full aſſurance of faith, having our hearts ſprinkled from an evil conſcience, and our bodies waſhed with pure water. Let us hold faſt the profeſſion of our faith without wa<g ref="char:EOLhyphen"/>vering (for he is faithful that promiſed:)</hi> He. 10.22, 23. <hi>Finally, my bre<g ref="char:EOLhyphen"/>thren, be ſtrong in the Lord, &amp; in the power of his might: put on the whole armour of God, that ye may be able to ſtand againſt the wiles of the Devil.</hi> Eph. 6.10, 11. <hi>There be ſome that trouble you, and would per<g ref="char:EOLhyphen"/>vert the Goſpel of Chriſt. If any man preach any other Goſpel unto you, than that ye have received, let him be accurſed,</hi> Gal. 1.7, 9.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
